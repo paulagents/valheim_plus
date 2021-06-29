@@ -25,17 +25,19 @@ Diese Spieler müssen dann exakt die gleiche "**valheim_plus.cfg**" Datei wie au
 Zuerst muss der Valheim Ordner auf dem PC geöffnet werden. 
 Dafür bei Steam in der Bibliothek 'Rechtsklick' auf Valheim, bei den Optionen dann auf "***Verwalten***" und dort auf "***Lokale Dateien durchsuchen***".
 
-![](https:gamesligatv.de/valheimpreview)
+![]
+(https://gamesligatv.de/valheimpreview)
 
 Sobald dieser Ordner geöffnet wurde, muss nun die "***WindowsClient.zip***" heruntergeladen werden. 
-Die "***WindowsClient.zip***" kann [hier](https://github.com/valheimPlus/ValheimPlus/releases) (runterscrollen bis "Assets") heruntergeladen werden.
+Die "***WindowsClient.zip***" kann [hier](https://github.com/valheimPlus/ValheimPlus/releases) releases (runterscrollen bis "Assets") heruntergeladen werden.
 
+(https://gamesligatv.de/valheimpreview)
 
-![](https:gamesligatv.de/valheimpreview)
+![]
 
 Im Anschluss muss nur noch der Inhalt der "***WindowsClient.zip***" in den vorher geöffneten Valheim Server entpackt werden
 
-![]( https:gamesligatv.de/valheimpreview )
+![]( gamesligatv.de/valheimpreview )
 
 Dann kann Valheim gestartet werden und die Einrichtung bei dem Client ist beendet.
 
@@ -52,11 +54,13 @@ Dann kann Valheim gestartet werden und die Einrichtung bei dem Client ist beende
 🎉 Seit Version 0.9.0 bekommt der Spieler nun vollautomatisch beim Verbinden zu dem Server die Config. Die Config muss also vorher nicht mehr vom Server heruntergeladen und an alle Spieler geschickt werden!
 
 
-![]( https:gamesligatv.de/preview )
+![]( https://gamesligatv.de/preview )
 
 Hier suchen wir unter "Verfügbare Spiele" nun nach Valheim Plus und klicken auf den Download Button:
 
-![](https:gamesligatv.de/valheimpreview/)
+[hier](https://gamesligatv.de/valheimpreview/)
+
+![]
 
 ![]()
 

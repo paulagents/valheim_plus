@@ -219,7 +219,7 @@ Wir haben mehrere verschiedene Kanäle, darunter einen Showcase-Kanal und ein Al
 https://discord.gg/NUQPyUhJAJ
 
 # Twitter
-Is used to post about releases of ValheimPlus and to potentially reply to issues.
+Wird verwendet, um über Veröffentlichungen von Valheim Plus zu posten und möglicherweise auf Probleme zu antworten.
 https://twitter.com/gamesligatv
 
 # Unterstützung

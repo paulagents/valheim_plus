@@ -231,7 +231,7 @@ Wähle ein Mitgliedschaftslevel aus
 (1) (2) (3) (4)
 
 ValheimPlus
-Ein HarmonyX-Mod, der darauf abzielt, die Spiel- und Lebensqualität von Valheim zu verbessern. Die Mod enthält mehrere verschiedene Hauptfunktionen, darunter Modifikatoren für Ingame-Statistiken von Spielern, Gebäuden und Entitäten und ein ausgeklügeltes System zum Bauen und Platzieren von Objekten mit hoher Präzision und ein System zum Modifizieren bereits platzierter Objekte mit hoher Präzision. 
+Ein Agent Schnecke-Mod, der darauf abzielt, die Spiel- und Lebensqualität von Valheim zu verbessern. Die Mod enthält mehrere verschiedene Hauptfunktionen, darunter Modifikatoren für Ingame-Statistiken von Spielern, Gebäuden und Entitäten und ein ausgeklügeltes System zum Bauen und Platzieren von Objekten mit hoher Präzision und ein System zum Modifizieren bereits platzierter Objekte mit hoher Präzision. 
 
 # Beitrag zu ValheimPlus
 Weitere Informationen zum Kompilieren von V+ für die Entwicklung und zum Mitwirken am Projekt finden Sie unter gamesligatv.de

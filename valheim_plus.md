@@ -1,7 +1,7 @@
 ---
 id: valheim_plus
 title: Valheim: Valheim Plus-Server
-description: Informationen zu Valheim-Serven von ZAP-Hosting, auf denen die Valheim Plus Mod vorinstalliert ist - ZAP-Hosting.com Dokumentationen
+description: Informationen zu Valheim-Serven von gamesligatv, auf denen die Valheim Plus Mod vorinstalliert ist - gamesligatv.de Dokumentationen
 sidebar_label: Valheim Plus
 ---
 
@@ -25,17 +25,17 @@ Diese Spieler müssen dann exakt die gleiche "**valheim_plus.cfg**" Datei wie au
 Zuerst muss der Valheim Ordner auf dem PC geöffnet werden. 
 Dafür bei Steam in der Bibliothek 'Rechtsklick' auf Valheim, bei den Optionen dann auf "***Verwalten***" und dort auf "***Lokale Dateien durchsuchen***".
 
-![](https://screensaver01.zap-hosting.com/index.php/s/47cHNZKijzaawbL/preview)
+![](https:gamesligatv.de/valheimpreview)
 
 Sobald dieser Ordner geöffnet wurde, muss nun die "***WindowsClient.zip***" heruntergeladen werden. 
 Die "***WindowsClient.zip***" kann [hier](https://github.com/valheimPlus/ValheimPlus/releases) (runterscrollen bis "Assets") heruntergeladen werden.
 
 
-![](https://screensaver01.zap-hosting.com/index.php/s/dPxaH3m4to25igt/preview)
+![](https:gamesligatv.de/valheimpreview)
 
 Im Anschluss muss nur noch der Inhalt der "***WindowsClient.zip***" in den vorher geöffneten Valheim Server entpackt werden
 
-![](https://screensaver01.zap-hosting.com/index.php/s/EftHnQeiB8GSpS4/preview)
+![]( https:gamesligatv.de/valheimpreview )
 
 Dann kann Valheim gestartet werden und die Einrichtung bei dem Client ist beendet.
 
@@ -51,43 +51,18 @@ Dann kann Valheim gestartet werden und die Einrichtung bei dem Client ist beende
 
 🎉 Seit Version 0.9.0 bekommt der Spieler nun vollautomatisch beim Verbinden zu dem Server die Config. Die Config muss also vorher nicht mehr vom Server heruntergeladen und an alle Spieler geschickt werden!
 
-## Valheim Plus Installation Server
 
-Um das Spiel zu wechseln, öffnen wir zuerst das Spiele-Tab auf unserem Server:
-
-![](https://screensaver01.zap-hosting.com/index.php/s/BbBAmKHto6mrSDx/preview)
+![]( https:gamesligatv.de/preview )
 
 Hier suchen wir unter "Verfügbare Spiele" nun nach Valheim Plus und klicken auf den Download Button:
 
-![](https://screensaver01.zap-hosting.com/index.php/s/xArgW7EcCxyXxKb/preview)
+![](https:gamesligatv.de/valheimpreview/)
 
 ![]()
 
-Danach wird der Server neu installiert. Nach der Neuinstallation hat man die Möglichkeit das Passwort bei "**Configs**" zu entfernen und man kann nun auf mehr Slots upgraden.
 
-## Slots Upgrade
 
-Um nun ein Slotupgrade durchführen zu können, muss die "**UP- und Downgrade**" Funktion im Gameserver Dashboard geöffnet werden.
-
-![](https://screensaver01.zap-hosting.com/index.php/s/gmZMnEgTNfg9eYB/preview)
-
-Bei der Upgrade-Seite wählt man nun die gewünschte Anzahl an Slots aus. 
-
-> Hierbei muss nur der "**Aufpreis**" bezahlt werden, dieser berechnet sich für die noch verbliebene Laufzeit
-
-![](https://screensaver01.zap-hosting.com/index.php/s/eH5mKpSzLGAM3qf/preview)
-
-Um das Upgrade abzuschließen, muss auf der Seite ganz unten nun die Bezahlmethode ausgewählt werden.
-Sobald ausgewählt drückt man den "***Upgrade durchführen***" Button und das Upgrade wird durchgeführt
-
-![](https://screensaver01.zap-hosting.com/index.php/s/G6k56YGNsGQ6Kjf/preview)
-
-## Valheim Plus Config
-
-Um die Konfigurationsdatei zu öffnen, muss im Gameserver Interface die "**Configs**" Seite geöffnet werden, bei dieser ist dann die "*ValheimPlus: valheim_plus.cfg*" zu sehen.
-Diese kann über das blaue Icon geöffnet werden, welches sich neben der Konfigurationsdatei befindet.
-
-![](https://screensaver01.zap-hosting.com/index.php/s/W7wQncJXEaj6pzZ/preview)
+## Valheim Plus
 
 Eine Liste sämtlicher in der Konfigurationsdatei nutzbaren Befehle:
 

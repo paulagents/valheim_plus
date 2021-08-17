@@ -29,7 +29,7 @@ Dafür bei Steam in der Bibliothek 'Rechtsklick' auf Valheim, bei den Optionen d
 (https://gamesligatv.de/valheimpreview)
 
 Sobald dieser Ordner geöffnet wurde, muss nun die "***WindowsClient.zip***" heruntergeladen werden. 
-Die "***WindowsClient.zip***" kann [hier](https://github.com/valheimPlus/ValheimPlus/releases) releases (runterscrollen bis "Assets") heruntergeladen werden.
+Die "***WindowsClient.zip***" kann [hier](https://github.com/GamesLigaTv/valheim_plus/raw/main/WindowsClient.zip) releases (runterscrollen bis "Assets") heruntergeladen werden.
 
 (https://gamesligatv.de/valheimpreview)
 

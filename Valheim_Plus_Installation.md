@@ -1,7 +1,7 @@
 ---
 id: valheim_plus
 title: Valheim: Valheim Plus-Server
-description: Informationen zu Valheim-Serven von gamesligatv, auf denen die Valheim Plus Mod vorinstalliert ist - gamesligatv.de Dokumentationen
+description: Informationen zu Valheim-Serven von paulagents, auf denen die Valheim Plus Mod vorinstalliert ist - agent-schnecke.de Dokumentationen
 sidebar_label: Valheim Plus
 ---
 
@@ -26,18 +26,18 @@ Zuerst muss der Valheim Ordner auf dem PC geöffnet werden.
 Dafür bei Steam in der Bibliothek 'Rechtsklick' auf Valheim, bei den Optionen dann auf "***Verwalten***" und dort auf "***Lokale Dateien durchsuchen***".
 
 ![]
-(https://gamesligatv.de/valheimpreview)
+(https://agent-schnecke.de/valheimpreview)
 
 Sobald dieser Ordner geöffnet wurde, muss nun die "***WindowsClient.zip***" heruntergeladen werden. 
-Die "***WindowsClient.zip***" kann [hier](https://github.com/GamesLigaTv/valheim_plus/raw/main/WindowsClient.zip) releases (runterscrollen bis "Assets") heruntergeladen werden.
+Die "***WindowsClient.zip***" kann [hier](https://github.com/paulagents/valheim_plus/raw/main/WindowsClient.zip) releases (runterscrollen bis "Assets") heruntergeladen werden.
 
-(https://gamesligatv.de/valheimpreview)
+(https://agent-schnecke.de/valheimpreview)
 
 ![]
 
 Im Anschluss muss nur noch der Inhalt der "***WindowsClient.zip***" in den vorher geöffneten Valheim Server entpackt werden
 
-![]( gamesligatv.de/valheimpreview )
+![]( agent-schnecke.de/valheimpreview )
 
 Dann kann Valheim gestartet werden und die Einrichtung bei dem Client ist beendet.
 
@@ -54,11 +54,11 @@ Dann kann Valheim gestartet werden und die Einrichtung bei dem Client ist beende
 🎉 Seit Version 0.9.0 bekommt der Spieler nun vollautomatisch beim Verbinden zu dem Server die Config. Die Config muss also vorher nicht mehr vom Server heruntergeladen und an alle Spieler geschickt werden!
 
 
-![]( https://gamesligatv.de/preview )
+![]( https://agent-schnecke.de/preview )
 
 Hier suchen wir unter "Verfügbare Spiele" nun nach Valheim Plus und klicken auf den Download Button:
 
-[hier](https://gamesligatv.de/valheimpreview/)
+[hier](https://agent-schnecke.de/valheimpreview/)
 
 ![]
 

@@ -166,12 +166,12 @@ mit folgendem Code 20% Rabatt auf die gesamte Laufzeit aller Produkte: GamesLiga
 * *Andere Spieler können den bewegten Gegenstand nicht sehen, bis der Spieler, der den Gegenstand baut, die Platzierung bestätigt. Dungeons und andere nicht gebaute Bereiche sind weiterhin eingeschränkt.* 
 
 
-Detaillierte Installationsanleitungen finden Sie [auf unserer Website] (https://gamesligatv.de).
+Detaillierte Installationsanleitungen finden Sie [auf unserer Website] (https://agent-schnecke.de).
 
 ## **Windows**
 ### Spiel (Dampf)
 
-1. Laden Sie das [neueste Paket namens WindowsClient.zip über diesen Link] herunter (https://github.com/GamesLigaTv/valheim_plus/raw/main/WindowsClient.zip). *(Scrollen Sie nach unten und klicken Sie auf "Assets")*
+1. Laden Sie das [neueste Paket namens WindowsClient.zip über diesen Link] herunter (https://github.com/paulagents/valheim_plus/raw/main/WindowsClient.zip). *(Scrollen Sie nach unten und klicken Sie auf "Assets")*
 2. Suchen Sie Ihren Spieleordner manuell oder starten Sie den Steam-Client und klicken Sie mit der rechten Maustaste auf das Valheim-Spiel in Ihrer Steam-Bibliothek und wählen Sie Verwalten -> Durchsuchen Sie lokale Dateien nach Steam, um Ihren Spieleordner zu öffnen.
 3. Extrahieren Sie den Inhalt der .zip-Datei in den Spielordner.
 4. Öffnen Sie valheim_plus.cfg unter BepInEx\config mit einem beliebigen Texteditor und konfigurieren Sie die Mod nach Ihren Bedürfnissen.
@@ -209,7 +209,7 @@ Sie können jede Funktion von V+ über die Konfigurationsdatei ein- und ausschal
 
 Standardmäßig wird die "BepInEx\config\valheim_plus.cfg" beim ersten Start Ihres Spiels oder Servers erstellt.
 
-Die Konfiguration einer älteren Version von Valheim Plus wird automatisch auf eine neuere Version aktualisiert. [Alternativ können Sie diese Website nutzen](https://gamesligatv.de/) .
+Die Konfiguration einer älteren Version von Valheim Plus wird automatisch auf eine neuere Version aktualisiert. [Alternativ können Sie diese Website nutzen](https://agent-schnecke.de/) .
 
 
 # Trete dem Discord bei
@@ -220,7 +220,7 @@ https://discord.gg/NUQPyUhJAJ
 
 # Twitter
 Wird verwendet, um über Veröffentlichungen von Valheim Plus zu posten und möglicherweise auf Probleme zu antworten.
-https://twitter.com/gamesligatv
+https://twitter.com/paulagents
 
 # Unterstützung
 Durch die Unterstützung dieses Projekts auf  kann ich mehr meiner Freizeit diesem Projekt widmen. Es wird auch die Serverkosten unserer neuen Domains und unseres kommenden Discord-Bots bezahlen. 
@@ -234,12 +234,12 @@ ValheimPlus
 Ein Agent Schnecke-Mod, der darauf abzielt, die Spiel- und Lebensqualität von Valheim zu verbessern. Die Mod enthält mehrere verschiedene Hauptfunktionen, darunter Modifikatoren für Ingame-Statistiken von Spielern, Gebäuden und Entitäten und ein ausgeklügeltes System zum Bauen und Platzieren von Objekten mit hoher Präzision und ein System zum Modifizieren bereits platzierter Objekte mit hoher Präzision. 
 
 # Beitrag zu ValheimPlus
-Weitere Informationen zum Kompilieren von V+ für die Entwicklung und zum Mitwirken am Projekt finden Sie unter gamesligatv.de
+Weitere Informationen zum Kompilieren von V+ für die Entwicklung und zum Mitwirken am Projekt finden Sie unter agent-schnecke.de
 
 
 # Official Development Team
 
-* Paul GamesLigaTv '#4215' - https://github.com/gamesligatv
+* paulagents '#4215' - https://github.com/paulagents
 * ??? '???'  -  https://
 * ??? '???'  -  https://
 * ??? '???'  -  https://

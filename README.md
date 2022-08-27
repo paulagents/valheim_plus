@@ -132,7 +132,6 @@ mit folgendem Code 20% Rabatt auf die gesamte Laufzeit aller Produkte: GamesLiga
 * Suche zulassen 
 
 ### Erweiterter Baumodus
-* **Videodemo: https://i.imgur.com/ddQCzPy.mp4**
 * So funktioniert es (alle genannten Hotkeys können geändert werden):
     * Spieler können den Gegenstand einfrieren, indem sie die konfigurierte Taste drücken (standardmäßig F1).
     * Spieler können die Position und Drehung des Gegenstands mit den folgenden Tastenkombinationen ändern:
@@ -215,7 +214,7 @@ Die Konfiguration einer älteren Version von Valheim Plus wird automatisch auf e
 # Trete dem Discord bei
 Wir haben mehrere verschiedene Kanäle, darunter einen Showcase-Kanal und ein Alpha-Testsystem, sodass Spieler immer die neuesten verfügbaren Versionen zum Testen erhalten. 
 
-![ValheimPlus Icon](https://raw.githubusercontent.com/nxPublic/ValheimPlus/master/ico.png)
+![ValheimPlus Icon](https://i.ibb.co/W0GR8Gh/ico.png)
 https://discord.gg/NUQPyUhJAJ
 
 # Twitter

